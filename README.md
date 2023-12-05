@@ -2,9 +2,9 @@
 
 ### DIY enthusiast, passionate about technology, games and anything you can learn from the internet.
 
-- 🌱 I’m currently learning frontend development and UX/UI design
-- 💻 I’m looking to code as much as i can
-- 🧠 I'm focused on learning the Javascript stack
+- 🌱 Currently learning frontend development and UX/UI design
+- 💻 Looking forward to code as much as I can
+- 🧠 Focused on learning the Javascript stack
 
 
 <br>
